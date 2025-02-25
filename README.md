@@ -27,4 +27,5 @@ This is a simple **Product Catalog** web application built using **Spring Boot**
 ---
 
 ## 📂 Project Structure
+### **Backend (`product_catalog-front-end`)**
 ### **Backend (`product_catalog-back-end`)**
